@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="aviansrc"/>
+	<classpathentry kind="lib" path="C:/Users/harri_000/Google Drive/Files/JavaWorkspace/lwjgl3/jar/lwjgl.jar" sourcepath="C:/Users/harri_000/Google Drive/Files/JavaWorkspace/lwjgl3/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/harri_000/Documents/JavaWorkspace/lwjgl-2.9.1/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/harri_000/Documents/JavaWorkspace/lwjgl3/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/harri_000/Google Drive/Files/JavaWorkspace/jave-1.0.2/jave-1.0.2.jar" sourcepath="C:/Users/harri_000/Google Drive/Files/JavaWorkspace/jave-1.0.2/jave-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

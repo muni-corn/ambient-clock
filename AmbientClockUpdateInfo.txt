@@ -1,0 +1,65 @@
+<updatelink>
+https://dl.dropboxusercontent.com/u/100480748/Ambient%20Clock/AmbientClock.jar
+<installlink>
+https://dl.dropboxusercontent.com/u/100480748/Ambient%20Clock/install.jar
+<version>
+Specimen 4.3
+<info>
+Specimen 4:
+- Significant memory improvement (yay!)
+- Added the option to not blur the wallpaper
+- Added the option to not dim the clock
+- Settings panel opens from the bottom now (and has a suave new look)
+- Scrolling with the arrow keys
+- Photo duration now has discrete choices instead of a slider
+- Timer properly resets when enabling it
+- Hold Q to see what's playing next
+- Other small tweaks
+
+Specimen 4.1:
+- Fixed a problem
+- You're welcome :)
+
+Specimen 4.2:
+- Fixed another problem
+- You're welcome again :)
+
+Specimen 4.3:
+- Fixed ANOTHER problem
+- You're welcome AGAIN
+- :)
+- A new option for an analog clock that doesn't do anything (sorry haha)
+<Specimen 4.3>
+- Fixed a problem where the timer would not start at correct position on startup
+<Specimen 4.2>
+- Fixed a problem where the last song would not stop playing when deleted
+<Specimen 4.1>
+- Fixed infinite update problem
+<Specimen 4>
+- Significant memory improvement (yay!)
+- Added the option to not blur the wallpaper
+- Added the option to not dim the clock
+- Settings panel opens from the bottom now (and has a suave new look)
+- Scrolling with the arrow keys
+- Photo duration now has discrete choices instead of a slider
+- Timer properly resets when enabling it
+- Hold Q to see what's playing next
+- Other small tweaks
+<Specimen 3>
+- Fixed crashing when spacebar is pressed (and there is no music available)
+- Better looking plus signs
+- Thicker list items
+- More consistent blurring
+<Specimen 2>
+- Fixed data loss problems on startup... sorry!
+- Minor fixes
+<Specimen 1>
+WARNING:
+After updating, Ambient Clock will now save data in your user's home directory. Please excuse any loss of data.
+
+New in this update:
+- Fixed font rendering problems on some devices... hopefully
+- Timer setting is now saved
+- Fixed potential freezing when files go missing
+<Specimen 0>
+- First release of Ambient Clock.
